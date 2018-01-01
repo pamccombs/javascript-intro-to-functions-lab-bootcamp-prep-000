@@ -1,6 +1,5 @@
 var lowercase = "hello"
 var uppercase = "HELLO"
-var mixedcase = "I love you, too."
 
 function shout(string)  {
   return string.toUpperCase()
